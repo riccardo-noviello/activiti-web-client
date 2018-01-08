@@ -1,0 +1,10 @@
+div.row{
+	margin-top: 40px;
+}
+.week-row > td > input {
+	width: 70%;
+}
+
+.input-group-btn > button {
+	margin-right: 10px !important;
+}
